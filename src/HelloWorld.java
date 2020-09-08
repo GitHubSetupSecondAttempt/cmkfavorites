@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		//Partner added line below.
 		System.out.println("Goodbye! Goodbye! ");
+		System.out.println("silas was here");
 	}
 }
